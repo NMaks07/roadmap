@@ -18,6 +18,8 @@ and more reliably. The term DevOps was formed by combining the
 - User permissions
     - chown
     - chmod
+    https://youtu.be/72n3k1HHQvk
+    
 - Process management
     - ps
     - top / htop
